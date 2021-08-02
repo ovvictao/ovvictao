@@ -14,9 +14,9 @@
       <li> 🧑🏽 20 years and counting... </li>
       <li> 🏠 I live in Rio de Janeiro, Brazil </li>
       <li> 📓 Code student </li>
-      <li> ☁️ My dream is work at/with Riot games (Yes, I love League of Legends) </li>
+      <li> ☁️ My dream is working at/with Riot games (Yes, I love League of Legends) </li>
       <li> 🏅 I'm a huge sportfan and ex athlete </li>
-      <li> 🏆 E-sports is sport too!!!! </li>
+      <li> 🏆 E-sports are sport too!!!! </li>
     </ul>
   </p>
  
@@ -43,7 +43,7 @@
 <p align="center">
   <a href="https://www.instagram.com/victor_wariss/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/instagram-round.svg" width="60px" alt="Instagram"></a> &nbsp; &nbsp;
   <a href="https://api.whatsapp.com/send?phone=+5521999271654"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/whatsapp-round.svg" width="60px" alt="Whatsapp"></a> &nbsp; &nbsp;
-  <a href="mailto:vicotr.wariss@outlook.com"><img src="https://link.springer.com/springerlink-static/images/svg/email.svg" width="60px" alt="E-mail"></a> &nbsp; &nbsp;
+  <a href="mailto:victor.wariss@outlook.com"><img src="https://link.springer.com/springerlink-static/images/svg/email.svg" width="60px" alt="E-mail"></a> &nbsp; &nbsp;
 </p>
 
 <p aliggn="center">
