@@ -3,7 +3,7 @@
   <h1 align ="center">Hi I'm Victor Wariss 👋</h1>
 </p>
 <p align="center"> 
-   The world need more people care about the others
+   The world needs more people care about the others
 </p>
 
 <details>
