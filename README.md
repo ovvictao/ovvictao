@@ -66,10 +66,10 @@
   </p>
 </div>
  
-<div>
-  ![Snake animation](https://github.com/rafaballerini/ovvictao/blob/output/github-contribution-grid-snake.svg)
+
+ ![Snake animation](https://github.com/ovvictao/ovvictao/blob/output/github-contribution-grid-snake.svg)
   
-</div>
+
   
 <p align="center">
    "<i>Let's go!</i>" (Mario Bros, 1981)
