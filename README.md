@@ -39,36 +39,38 @@
 
 ##
 
-<div style="display: table"><br>
+<div align="center"><br>
   <a href="https://github.com/ovvictao">
   <img height="160em" align ="center" src="https://github-readme-stats.vercel.app/api?username=ovvictao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <br><br>
   <img height="160em" align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovvictao&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ovv-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ovv-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ovv-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ovv-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Ovv-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ovv-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ovv-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ovv-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
 ##
- 
+
  ![Snake animation](https://github.com/ovvictao/ovvictao/blob/output/github-contribution-grid-snake.svg)  
 
 ##
 
-<div>
+
   <p align="center">
     <strong>Connect and chat with me!</strong>
   </p>
+ 
   <p align="center">
     <a href="https://www.instagram.com/victor_wariss/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/instagram-round.svg" width="60px" alt="Instagram"></a> &nbsp; &nbsp;
     <a href="https://api.whatsapp.com/send?phone=+5521999271654"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/whatsapp-round.svg" width="60px" alt="Whatsapp"></a> &nbsp; &nbsp;
     <a href="mailto:victor.wariss@outlook.com"><img src="https://link.springer.com/springerlink-static/images/svg/email.svg" width="60px" alt="E-mail"></a> &nbsp; &nbsp;
   </p>
-</div>
+
  
 
 
