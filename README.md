@@ -11,7 +11,7 @@
   <br>
   <p>
     <ul>
-      <li> 🧑🏽 20 years and counting... </li>
+      <li> 🧑🏽 21 years and counting... </li>
       <li> 🏠 I live in Rio de Janeiro, Brazil </li>
       <li> 📓 Code student </li>
       <li> ☁️ My dream is working at/with Riot games (Yes, I love League of Legends) </li>
