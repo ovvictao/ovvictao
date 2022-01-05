@@ -41,7 +41,7 @@
 
 <div align="center"><br>
   <a href="https://github.com/victorwariss">
-  <img height="160em" align ="center" src="https://github-readme-stats.vercel.app/api?username=ovvictao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" align ="center" src="https://github-readme-stats.vercel.app/api?username=victorwariss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <br><br>
   <img height="160em" align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorwariss&layout=compact&langs_count=7&theme=dracula"/>
 </div>
