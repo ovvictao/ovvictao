@@ -29,8 +29,8 @@
  
  
  ## I'm currently...
-  - 🌐  Working to be a Web developer
-  - 🗒️  Learning HTML, CSS, JavaScript and Python
+  - 🌐  Web developer
+  - 🗒️  Learning AWS, SQL and Mongo
   - 🏋🏻‍♂️  Working to turn the Future Victor better than me
  
  
